@@ -230,6 +230,8 @@ GRE ISSUE 作文题库里还有这样一个句子：
 
 这两个版本都是正确的，通常推荐使用第二个版本——因为它更简洁。
 
+其实，语言总是相同的，中文中也有类似的 “省略”，比如，“吃干抹净”，其实是 “吃干净” 和 “抹干净” 并列之后，省略相同的部分，而后留下来的四个字。
+
 TOEFL 作文题目中有这样一道题：
 
 > It has been said, “Not everything that is learned is contained in books.” *Compare and contrast knowledge gained from experience with knowledge gained from books.* In your opinion, which source is more important? Why?
